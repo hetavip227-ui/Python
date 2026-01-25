@@ -1,7 +1,8 @@
-l,b=int(input("enter value")),int(input("enter value"))
-area=l*b
-perimeter=2*(l+b)
-if(area>perimeter):
-    print(area,",area is greater")
-else:
-    print(perimeter,",perimeter is greater")
+r=int(input("enter value"))
+a=22/7*r*r
+print(a)
+
+h=int(input("enter value"))
+l=int(input("enter value"))
+a=h*l/2
+print(a)
